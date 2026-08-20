@@ -1,16 +1,17 @@
-# UFSC - Study Hub
+# Learning Hub
 
-My digital notebook for the Mathematics degree at UFSC (2026.2). The goal here is simple: **be more organized**, keep everything in one place, and actually track what I need to do instead of letting things pile up.
+My space for organizing everything I'm learning — from university courses (Electrical Engineering at UFSC) to personal projects and self-study. The goal is simple: **be more organized**, document what I learn, and build things along the way using AI to help me accelerate, experiment, and turn ideas into reality faster.
 
 ---
 
 ## Why this exists
 
 I wanted a system where I could:
-- Have all my lecture notes, exercises, and materials organized by course
-- Keep track of deadlines, exams, and to-dos
+- Organize lecture notes, exercises, and materials by course
+- Document personal projects related to what I'm studying
 - Look back and see what I actually learned (not just what I attended)
-- Build a habit of reviewing and studying consistently
+- Share key concepts and project write-ups publicly
+- Build a habit of learning consistently, inside and outside the classroom
 
 ---
 
@@ -19,6 +20,12 @@ I wanted a system where I could:
 | Course | Code | Status |
 |--------|------|--------|
 | Aprendizado de Maquina | MTM3587 | In progress |
+
+## Projects
+
+| Project | Related to | Status |
+|---------|-----------|--------|
+| *Coming soon* | — | — |
 
 ---
 
@@ -44,10 +51,11 @@ Class-notes---UFSC/
 ├── .gitignore
 ├── Aprendizado de maquina/
 │   └── conceitos.md    (key concepts - public)
-└── ... (more courses to come)
+├── ... (more courses to come)
+└── ... (personal projects to come)
 ```
 
-Each course has a `conceitos.md` file with the most important concepts explained clearly. Everything else (detailed lecture notes, exercises, syllabi, PDFs) stays local and private.
+Each course has a `conceitos.md` file with the most important concepts explained clearly. Projects get their own folders with write-ups. Everything else (detailed lecture notes, exercises, syllabi, PDFs) stays local and private.
 
 ---
 

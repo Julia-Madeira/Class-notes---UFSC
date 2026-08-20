@@ -20,6 +20,7 @@ I wanted a system where I could:
 | Course | Code | Status |
 |--------|------|--------|
 | Aprendizado de Maquina | MTM3587 | In progress |
+| Energy Systems Design | EEL7833 | In progress |
 
 ## Projects
 
@@ -35,11 +36,11 @@ Things that clicked, ideas worth remembering, and concepts I don't want to forge
 
 ### Aprendizado de Maquina
 
-- **The full ML pipeline matters more than any single algorithm.** Data acquisition, preprocessing, feature extraction, train/val/test split, choosing H, defining the loss, training, and evaluating generalization — each step can make or break your model.
+- The ML pipeline, empirical risk vs true risk, generalization bounds, overfitting/underfitting
 
-- **You can't just minimize training error.** The generalization bound R(f) <= R_emp(f) + complexity(H) means that a model too complex will "memorize" the training data but fail on new data. This is overfitting, and it's the fundamental tension in ML.
+### Energy Systems Design
 
-- **Choosing the hypothesis class H is a design decision, not a formality.** Too simple = underfitting (can't capture patterns). Too complex = overfitting (captures noise). The sweet spot depends on your data and the problem.
+- Optimization modeling (LP), Brazilian power system (SIN), hydro plant modeling, production function linearization, value of water, thermal unit commitment, wind uncertainty, daily operation scheduling
 
 ---
 

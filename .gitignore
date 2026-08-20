@@ -1,0 +1,32 @@
+# ===== Arquivos privados / do professor =====
+# PDFs (planos de ensino, provas, materiais que nao devem ser publicos)
+*.pdf
+
+# Arquivos de vagas / documentos pessoais
+vaga*.pdf
+
+# ===== Arquivos do sistema =====
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+
+# ===== Editores =====
+*.swp
+*.swo
+*~
+.vscode/
+
+# ===== Python (caso use notebooks/scripts) =====
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# ===== Arquivos temporarios =====
+*.tmp
+*.bak
+*.log

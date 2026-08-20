@@ -39,15 +39,15 @@ Things that clicked, ideas worth remembering, and concepts I don't want to forge
 ## Structure
 
 ```
-UFSC-materias/
+Class-notes---UFSC/
 ├── README.md
 ├── .gitignore
 ├── Aprendizado de maquina/
-│   ├── aula_aprendizado_maquina.md    (lecture notes)
-│   ├── exercicios_aula1_ML.md         (exercises & study guide)
-│   └── plano_ensino_aprendizado_maquina.md (syllabus summary)
+│   └── conceitos.md    (key concepts - public)
 └── ... (more courses to come)
 ```
+
+Each course has a `conceitos.md` file with the most important concepts explained clearly. Everything else (detailed lecture notes, exercises, syllabi, PDFs) stays local and private.
 
 ---
 

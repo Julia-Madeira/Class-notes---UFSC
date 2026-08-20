@@ -1,17 +1,22 @@
-# ===== Arquivos privados / do professor =====
-# PDFs (planos de ensino, provas, materiais que nao devem ser publicos)
+# ===== Arquivos privados (tudo exceto os resumos publicos) =====
+# Regra: ignorar tudo por padrao, liberar apenas o que deve ser publico
+
+# Ignorar todas as anotacoes de aula detalhadas
+aula_*.md
+
+# Ignorar exercicios (uso pessoal)
+exercicios_*.md
+
+# Ignorar planos de ensino
+plano_ensino_*.md
+
+# PDFs (materiais do professor, provas, documentos pessoais)
 *.pdf
 
-# Arquivos de vagas / documentos pessoais
-vaga*.pdf
-
 # ===== Arquivos do sistema =====
-# Windows
 Thumbs.db
 desktop.ini
 *.lnk
-
-# macOS
 .DS_Store
 
 # ===== Editores =====

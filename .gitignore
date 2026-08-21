@@ -8,10 +8,16 @@ aula_*.md
 exercicios_*.md
 
 # Ignorar planos de ensino
-plano_ensino_*.md
+plano_ensino*.md
 
 # PDFs (materiais do professor, provas, documentos pessoais)
 *.pdf
+
+# Projeto NFC (pessoal, nao vai pro GitHub)
+NFC Review Business/
+
+# Self Study (pessoal, nao vai pro GitHub)
+Self Study/
 
 # ===== Arquivos do sistema =====
 Thumbs.db
